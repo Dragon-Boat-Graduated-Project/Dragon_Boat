@@ -1,0 +1,8 @@
+path: /home/divclab/group1/dragonboat_yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: paddle
+
