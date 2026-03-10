@@ -42,3 +42,6 @@
 *.txt
 !requirements.txt
 
+# JSON
+*.json
+
