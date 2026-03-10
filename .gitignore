@@ -40,4 +40,5 @@
 .env
 
 *.txt
+!requirements.txt
 
